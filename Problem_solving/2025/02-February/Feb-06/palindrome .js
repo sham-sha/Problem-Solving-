@@ -1,0 +1,3 @@
+const palindromeNum = function (num){
+    
+}
